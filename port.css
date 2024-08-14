@@ -16,13 +16,13 @@
     list-style: none;
 }
 body{
-    background:rgba(0,0, 0, 0.8);
+    background:black;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 img:hover{
-    background: cyan;
+    background: linear-gradient(to right, #F7086C 0%, #35c9fc 100%);
     transform: translateY(-10px);
     color: rgb(16, 0, 0);
 
